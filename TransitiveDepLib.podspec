@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TransitiveDepLib'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Just a try out'
 
 # This description is used to generate tags and improve search results.
@@ -24,11 +24,11 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/huylenq/PodTransitiveLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'huy.lenq@gmail.com' => 'huy.lenq@gmail.com' }
-  s.source           = { :git => 'https://github.com/huy.lenq@gmail.com/TransitiveDepLib.git', :tag => s.version.to_s }
+  s.author           = { 'Huy Le' => 'huy.lenq@gmail.com' }
+  s.source           = { :git => 'https://github.com/huylenq/PodTransitiveLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.3'
 
   s.source_files = 'TransitiveDepLib/Classes/**/*'
   
