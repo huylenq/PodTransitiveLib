@@ -1,0 +1,6 @@
+framework module TransitiveDepLib {
+  umbrella header "TransitiveDepLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TransitiveDepLib'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of TransitiveDepLib.'
+  s.version          = '0.0.1'
+  s.summary          = 'Just a try out'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/huy.lenq@gmail.com/TransitiveDepLib'
+  s.homepage         = 'https://github.com/huylenq/PodTransitiveLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'huy.lenq@gmail.com' => 'huy.lenq@gmail.com' }
