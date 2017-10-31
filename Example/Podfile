@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TransitiveDepLib_Tests' do
+  pod 'TransitiveDepLib', :path => '../'
+  
+  
+end
